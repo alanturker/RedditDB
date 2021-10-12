@@ -2,7 +2,7 @@
 //  RedditTableViewCell.swift
 //  RedditClone
 //
-//  Created by Emirhan on 12.10.2021.
+//  Created by Türker on 12.10.2021.
 //
 
 import UIKit
